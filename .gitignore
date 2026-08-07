@@ -2,3 +2,5 @@
 !Accidents_cleaned_final.csv 
 .ipynb_checkpoints/ 
 __pycache__/ 
+severity_model.pkl 
+Traffic_Hotspot_GIS_ML_Guide.docx 
