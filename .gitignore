@@ -1,0 +1,4 @@
+*.csv 
+!Accidents_cleaned_final.csv 
+.ipynb_checkpoints/ 
+__pycache__/ 
